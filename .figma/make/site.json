@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your personal brand with a premium dark-themed portfolio website that highlights your work through immersive visuals, elegant typography, and smooth animations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
